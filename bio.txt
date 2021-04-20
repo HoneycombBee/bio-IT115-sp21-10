@@ -1,2 +1,3 @@
-This is where my bio will go
-I will change this soon
+My name is Bee King, pronouns (She/Her). As a current student of the Year Up program at Seattle Central College, my main goal is to find and pursue a career in the Software or Application development field. My dream since I was a child has been to be in the Game Developer field, and I still actively pursue that goal in my daily life. I am confident of the passion that I feel towards the subjects that interest me in even the slightest.
+
+I am working towards developing the skills required for me to strive towards my goals and passions as I practice HTML, CSS, JavaScript, and Unity Engine. My future goals are to develop my skills in Blender and Unreal Engine as well. I am very driven to fulfill my needs to succeed in all of these tasks and look forward to bringing my creativity and passion to the field.
