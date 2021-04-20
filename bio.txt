@@ -6,3 +6,5 @@ I am confident of the passion that I feel towards the subjects that interest me 
 I am working towards developing the skills required for me to strive towards my goals and passions as I practice HTML, CSS, JavaScript, and Unity Engine. 
 My future goals are to develop my skills in Blender and Unreal Engine as well. 
 I am very driven to fulfill my needs to succeed in all of these tasks and look forward to bringing my creativity and passion to the field.
+
+Thank you for visiting my GitHub bio!
